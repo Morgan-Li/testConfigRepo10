@@ -7,9 +7,9 @@ app:
   # scenario. If the value is set to an empty string ("") the application
   # is not deployed.
   version: "fddcc48b-e2b0-43b1-947b-2d078f1e1027"
-  libertyVersionPolicy: "25.0.0.6"
+  libertyVersionPolicy: "25.0.0.3"
   libertyInterimFixes:
-    - "PH66915"
+    - "PH65529"
 
 
   # Set the Maven coordinates of the Maven artifact to deploy for the 
